@@ -66,3 +66,4 @@ void multiplyMatrix(int a[MAX][MAX], int b[MAX][MAX], int res[MAX][MAX], int r1,
 void transposeMatrix(int mat[MAX][MAX], int trans[MAX][MAX], int r, int c){
     for(int i=0;i<r;i++) for(int j=0;j<c;j++) trans[j][i]=mat[i][j];
 }
+
