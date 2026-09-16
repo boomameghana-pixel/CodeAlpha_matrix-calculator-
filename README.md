@@ -26,5 +26,5 @@ It performs:
 
 ## How to Run
 ```bash
-gcc "matrix_calculator.c" -o matrix
+gcc "Matrix_calculator.c" -o matrix
 ./matrix# CodeAlpha_matrix-calculator-
